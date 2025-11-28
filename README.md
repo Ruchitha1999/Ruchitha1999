@@ -1,12 +1,49 @@
 # 🚀Data Analyst | Power BI | SQL | Data Storytelling | Open to New Opportunities
 
 
-### 🔎 About Me
+### 👋 About Me
 
-I'm Ruchitha, a passionate and results-oriented Data Analyst currently working at Tata Consultancy Services, Bangalore. I bring together strong technical expertise with business acumen to help organizations transform raw data into actionable insights, driving better decisions and measurable business outcomes.
+- SQL Developer with 4+ years of experience, now transitioning into Data Analytics.
 
-I specialize in solving business problems through Data Visualization, Business Intelligence, and Data Analysis using tools like Power BI, SQL, Excel, Python. Whether it's crafting intuitive dashboards, modeling complex data sets, or automating reporting workflows, I focus on providing clarity and delivering value through data.
+- Strong foundation in problem-solving, database development, and analytical thinking.
 
-With industry experience spanning IT Services, Consulting and Analytics, I have collaborated with cross-functional stakeholders to streamline reporting, improve operational performance, and enable data-driven decision-making.
+- Passionate about uncovering insights from data and building meaningful visualizations.
+
+### 💡 What I’m Focusing On
+
+- Strengthening skills in Power BI, Python for data analysis, and advanced SQL.
+
+- Building projects that involve data cleaning, ETL, data modeling, and business insights.
+
+- Applying analytics techniques to solve real-world problems and improve decision-making.
+
+### 🛠️ Technical Skills
+
+- SQL: Joins, CTEs, Window functions, stored procedures, performance tuning
+
+- Python: Pandas, NumPy, Matplotlib (beginner-friendly)
+
+- Power BI: DAX, data modeling, interactive dashboard creation
+
+- Tools: Excel, Git, Power Query
+
+### 📊 Projects You’ll Find Here
+
+- Power BI capstone dashboards
+
+- SQL analysis project using real-world datasets
+
+- Python data analysis notebooks
+
+- Excel Analytics Project
+
+### 🎯 Career Goal
+
+- Transition into a full-time Data Analyst role by combining my SQL expertise with analytics and visualization skills.
+
+### 📫 Let’s Connect
+
+- Open to collaborations, feedback, and learning opportunities in the data analytics space.
+
 
 
